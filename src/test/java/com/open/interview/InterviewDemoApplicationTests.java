@@ -1,4 +1,4 @@
-package com.open.interview_demo;
+package com.open.interview;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
